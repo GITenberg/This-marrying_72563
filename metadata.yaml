@@ -1,0 +1,29 @@
+_repo: This-marrying_72563
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Banning, Margaret Culkin
+    birthdate: 1891
+    deathdate: 1982
+    gutenberg_agent_id: '56694'
+    url: http://www.gutenberg.org/2009/agents/56694
+    wikipedia: https://en.wikipedia.org/wiki/Margaret_Culkin_Banning
+description: ''
+gutenberg_issued: '2023-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72563'
+language: en
+pgterms:marc905: 20230103040134banning
+pgterms:marc906: '1920'
+pgterms:marc907: US
+production_note: Chuck Greif and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNYC :$bGeorge H. Doran Company, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: This marrying
+url: http://www.gutenberg.org/ebooks/72563
